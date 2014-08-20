@@ -77,13 +77,9 @@ We will add the citation.
 9.	In the references, conference papers should be cited as “In Proc.:”. [23] could have pointed to Abbyy’s URL instead of the magazine article. 
 
 We will change it accordingly.
---------------------------------------------------------------------------------------------------
 
 
 
-
-
---------------------------------------------------------------------------------------------------
 Assigned_Reviewer_7
 ==================================================================================================
 Weakness (Cons)
@@ -119,13 +115,10 @@ It is the size of the vocabulary learnt from compressed CHoG features. This numb
 6.	Refs 18,19, the authors have errors.
 
 We will correct them.
---------------------------------------------------------------------------------------------------
 
 
 
 
-
---------------------------------------------------------------------------------------------------
 Assigned_Reviewer_8
 ==================================================================================================
 Weakness (Cons)
