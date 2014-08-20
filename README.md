@@ -77,7 +77,6 @@ We will add the citation.
 9.	In the references, conference papers should be cited as “In Proc.:”. [23] could have pointed to Abbyy’s URL instead of the magazine article. 
 
 We will change it accordingly.
-==================================================================================================
 --------------------------------------------------------------------------------------------------
 
 
@@ -120,7 +119,6 @@ It is the size of the vocabulary learnt from compressed CHoG features. This numb
 6.	Refs 18,19, the authors have errors.
 
 We will correct them.
-==================================================================================================
 --------------------------------------------------------------------------------------------------
 
 
@@ -134,5 +132,4 @@ Weakness (Cons)
 1.	A good character segmentation is an important step required by the proposed approach. This issue limits the applicability of the overall framework in practice. However, the paper does not mention how the characters are segmented. I think it would be better for the readers if the paper discussed the limitations of the approach. 
 
 Thanks for the advice, we will discuss the limitations of the approach. Many other works that focus on the representation also only included experiments on cropped images, and we aimed at presenting a representation that performs well for character recognition. 
-==================================================================================================
 --------------------------------------------------------------------------------------------------
