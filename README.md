@@ -141,3 +141,5 @@ readers if the paper discussed the limitations of the approach.
 Thanks for the advice, we will discuss the limitations of the approach. Many other works that focus on the representation also only included experiments on cropped images, and we aimed at presenting a representation that performs well for character recognition. 
 ==================================================================================================
 --------------------------------------------------------------------------------------------------
+
+fin
